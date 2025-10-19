@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "chat-avatar-user",
+      "description": "Avatar for the user",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA4MjUzNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "chat-avatar-ai",
+      "description": "Avatar for the AI assistant",
+      "imageUrl": "https://images.unsplash.com/photo-1732020858816-93c130ab8f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cm9ib3QlMjBhYnN0cmFjdHxlbnwwfHx8fDE3NjA3MzI1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot abstract"
+    }
+  ]
+}
