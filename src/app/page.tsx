@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className="flex h-screen flex-col bg-background">
       <MainNav />
-      <main className="flex-1 container pb-8 pt-4 flex flex-col overflow-hidden">
+      <main className="flex-1 container py-6 flex flex-col overflow-hidden">
         <div className="flex-1 flex flex-col justify-center overflow-hidden">
             <ChatAssistant initialPrompts={initialPrompts} />
         </div>
